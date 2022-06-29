@@ -11,5 +11,3 @@ public class ComCgSpringBootPersonalProductivityApp1Application {
 	}
 
 }
-// main class
-//Personal productivityApp
